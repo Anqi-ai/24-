@@ -38,7 +38,7 @@
  - 下載本專案之程式碼，並於任一可執行C++語言之編輯器編譯並執行即可。
  ## 程式畫面截圖:
 [隨機產生4個數字]<img width="526" height="248" alt="螢幕擷取畫面 2026-04-18 015829" src="https://github.com/user-attachments/assets/78cdacb1-324b-4121-b3fb-14776ee651b0" />
-[輸入運 算式]<img width="553" height="335" alt="螢幕擷取畫面 2026-04-18 015944" src="https://github.com/user-attachments/assets/72c49681-5621-4631-b291-235e4a900fbd" />
+[輸入運算式]<img width="553" height="335" alt="螢幕擷取畫面 2026-04-18 015944" src="https://github.com/user-attachments/assets/72c49681-5621-4631-b291-235e4a900fbd" />
 [系統判斷]<img width="601" height="186" alt="螢幕擷取畫面 2026-04-18 015953" src="https://github.com/user-attachments/assets/592a6bff-020e-4039-acca-54e88eb0a33a" />
 # 分工資訊:
 ### 李安淇(組長):所有關於程式碼的細節與產生(例:UML圖、操作、程式...)
