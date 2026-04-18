@@ -28,6 +28,12 @@
     - 是否符合運 算規則
     - 結果是否為24
  4. 顯示結果(成功 / 失敗)
+    
+[UML圖]<img width="142" height="110" alt="S__517308427_0" src="https://github.com/user-attachments/assets/ecf019dd-3c18-4439-be24-80cfc7c1e146" />
+<img width="390" height="446" alt="S__517308429_0" src="https://github.com/user-attachments/assets/02dc30ee-51c9-4adb-8ac2-e412acb6a894" />
+<img width="344" height="526" alt="S__517308426_0" src="https://github.com/user-attachments/assets/4fe565a6-333f-4aab-8335-85bf47f2ad51" />
+<img width="254" height="378" alt="S__517308428_0" src="https://github.com/user-attachments/assets/85624278-1fe6-4431-b829-de40589a145e" />
+
  ## 遊戲執行 & 安裝方式
  - 下載本專案之程式碼，並於任一可執行C++語言之編輯器編譯並執行即可。
  ## 程式畫面截圖:
